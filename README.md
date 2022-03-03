@@ -8,5 +8,9 @@
 ### Connect with me:
 - My Facebook: <a href="https://www.facebook.com/thang.nv2882" target="blank">Nguyễn Văn Thắng</a>
 - My Gmail: thang.nv2882@gmail.com 
+
+<br>
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thangnv2882&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thangnv2882&theme=radical)
