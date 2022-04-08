@@ -1,4 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=25&center=true&vCenter=true&lines=Hey%2C+there.....;I'm+VanThangg;Nice+to+meet+you!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=25&center=true&vCenter=true&lines=Hey%2C+there.....;I'm+Nguyễn+Văn+Thắng;Nice+to+meet+you!)](https://git.io/typing-svg)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thangnv2882&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+
 
 ### Welcome to my Github
 - 🌱 I’m @VanThangg  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
