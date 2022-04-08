@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=25&center=true&vCenter=true&lines=Hey%2C+there.....;I'm+Nguyễn+Văn+Thắng;Nice+to+meet+you!)](https://git.io/typing-svg)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thangnv2882&hide=contribs,prs)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![](https://komarev.com/ghpvc/?username=thangnv2882&color=green)
 
 
 ### Welcome to my Github
