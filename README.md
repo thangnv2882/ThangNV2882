@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=25&center=true&vCenter=true&lines=Hey%2C+there.....;I'm+Nguyễn+Văn+Thắng;Nice+to+meet+you!)](https://git.io/typing-svg)
+<br>
 ![](https://komarev.com/ghpvc/?username=thangnv2882&color=green)
 
 
