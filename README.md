@@ -4,7 +4,7 @@
 
 
 ### Welcome to my Github
-- 🌱 I’m @VanThangg  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px">
+- 🌱 I’m @VanThangg  <img src="https://monophy.com/media/Q7SKqn3G97xpmfSOvG/monophy.gif" width="15px">
 - 👀  I’m interested in writing code!
 - 🌱  I’m currently learning Java, Spring, JavaScript.
 - 👯  I like to play chess, play the flute and play sports,...
