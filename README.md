@@ -2,7 +2,7 @@
 <br>
 ![](https://komarev.com/ghpvc/?username=thangnv2882&color=green)
 
-<img align="right" alt="GIF" src="https://media0.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif?cid=790b761171d3e2ba1a4b71867a40db9ae2e8c9532ec14ad0&rid=giphy.gif&ct=g" width="200" height="200" />
+<img align="right" alt="GIF" src="https://media0.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif?cid=790b761171d3e2ba1a4b71867a40db9ae2e8c9532ec14ad0&rid=giphy.gif&ct=g" width="300" height="300" />
 
 ### Welcome to my Github
 - 🌱 I’m @VanThangg
