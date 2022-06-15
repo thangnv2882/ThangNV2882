@@ -2,9 +2,10 @@
 <br>
 ![](https://komarev.com/ghpvc/?username=thangnv2882&color=green)
 
+<img align="right" alt="GIF" src="https://media0.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif?cid=790b761171d3e2ba1a4b71867a40db9ae2e8c9532ec14ad0&rid=giphy.gif&ct=g" width="200" height="200" />
 
 ### Welcome to my Github
-- 🌱 I’m @VanThangg  <img src="https://media0.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif?cid=790b761171d3e2ba1a4b71867a40db9ae2e8c9532ec14ad0&rid=giphy.gif&ct=g" width="15px">
+- 🌱 I’m @VanThangg
 - 👀  I’m interested in writing code!
 - 🌱  I’m currently learning Java, Spring, JavaScript.
 - 👯  I like to play chess, play the flute and play sports,...
