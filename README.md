@@ -10,7 +10,7 @@
 - 🌱  I’m currently learning Java, Spring, JavaScript.
 - 👯  I like to play chess, play the flute and play sports,...
 ### Connect with me:
-- My Facebook: <a href="https://www.facebook.com/thang.nv2882" target="blank">Nguyễn Văn Thắng</a>
+- My Facebook: <a href="https://www.facebook.com/thangnv2882" target="blank">Nguyễn Văn Thắng</a>
 - My Gmail: thang.nv2882@gmail.com 
 
 <br>
