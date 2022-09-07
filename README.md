@@ -5,9 +5,9 @@
 <img align="right" alt="GIF" src="https://media0.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif?cid=790b761171d3e2ba1a4b71867a40db9ae2e8c9532ec14ad0&rid=giphy.gif&ct=g" width="250" height="250" />
 
 ### Welcome to my Github
-- 🌱 I’m @VanThangg
+- 🌱 I’m @thangnv2882
 - 👀  I’m interested in writing code!
-- 🌱  I’m currently learning Java, Spring, JavaScript.
+- 🌱  I’m currently learning Java, Spring, JavaScript, React JS,....
 - 👯  I like to play chess, play the flute and play sports,...
 ### Connect with me:
 - My Facebook: <a href="https://www.facebook.com/thangnv2882" target="blank">Nguyễn Văn Thắng</a>
